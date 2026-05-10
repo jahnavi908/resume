@@ -8,7 +8,7 @@ Hi, I am a B.Tech CSE student specializing in AI & Data Science.
 - Basic Machine Learning
 
 ## Projects
-- Student Marks Prediction
+- health prediction(diabetic/non-diabetic)
 
 ## Resume
 Click below to view my resume:
